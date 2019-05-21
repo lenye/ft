@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/cheggaaa/pb"
-	proto "github.com/mattn/ft/proto"
+	"github.com/lenye/ft/proto"
 	"github.com/urfave/cli"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"

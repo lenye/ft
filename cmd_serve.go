@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 
 	google_protobuf "github.com/golang/protobuf/ptypes/timestamp"
-	proto "github.com/mattn/ft/proto"
+	"github.com/lenye/ft/proto"
 	"github.com/urfave/cli"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
